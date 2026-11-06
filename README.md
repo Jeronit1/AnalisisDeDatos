@@ -23,8 +23,8 @@ Análisis exploratorio, limpieza de datos y validación de hipótesis sobre los 
 ## Instalación
 1. Clonar el repositorio y entrar a la carpeta:
    ```
-   git clone https://github.com/Jeronit1/AnalisisDeDatos.git
-   cd TP_ESPECIAL
+   git clone https://github.com/Jeronit1/TP_ESPECIAL_CIENCIA_DE_DATOS.git
+   cd TP_ESPECIAL_CIENCIA_DE_DATOS
    ```
 2. Crear y activar un entorno virtual:
    - Windows (PowerShell):
